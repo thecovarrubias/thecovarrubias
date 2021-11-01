@@ -2,11 +2,11 @@
 
 <section align="justify">
   <p>I'm a engineer focused on the development of solutions based on innovative web applications.</p>
-
+  <p>📍 Puebla de Zaragoza, México.</p>
+  
   ### About me
-  <p>Currently I'm in constant development of my professional and personal skills. 🧑🏻‍💻<br>
-    For me it's a pride to be a graduate of the Technological Institute of Puebla in Engineering in Information and Communications Technologies. 🧑🏻‍🎓</p>
-  <p><em>"I'm <s>want to try</s> doing <strong>cool things</strong> ✨"</em></p>
+  <p>Currently I'm in constant development of my professional and personal skills. 🧑🏻‍💻</p>
+  <p>For me it's a pride to be a graduate of the Technological Institute of Puebla in Engineering in Information and Communications Technologies. 🧑🏻‍🎓</p>
   
   <div align="center">
     <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" alt="It's fine" />
