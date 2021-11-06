@@ -1,7 +1,7 @@
 # <Hello World! /> 👋🏻 I'm José Covarrubias
 
 <section align="justify">
-  <p>👨🏻‍💻 I'm a engineer focused on the development of solutions based on innovative web applications.</p>
+  <p>👨🏻‍💻 Engineer focused on the development of solutions based on innovative web applications.</p>
 
   ## 🤟🏻 About me
   <p>💻 Currently I'm in constant development of my professional and personal skills.</p>
