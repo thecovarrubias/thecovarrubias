@@ -1,20 +1,13 @@
 ## <Hello World! /> I'm José Covarrubias
-<div align="center">  
-  <div align="justify">
-    <p>👨🏻‍💻 Engineer focused on the development of solutions based on innovative web applications.</p>
-  </div>
   
-  ![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecovarrubias&show_icons=true&theme=slateorange)
+  👨🏻‍💻 Engineer focused on the development of solutions based on innovative web applications.
 
-  <div align="justify">
-    <h3>About me</h3>
-    <p>💻 Currently I'm in constant development of my professional and personal skills.</p>
-    <p>🦁 For me it's a pride to be a graduate of the Instituto Tecnológico de Puebla in Engineering in Information and Communications Technologies.</p>
-    <p>📍 Puebla de Zaragoza, México.</p>
-  </div>
+### About me
+  💻 Currently I'm in constant development of my professional and personal skills.
   
-  <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" alt="It's fine" />
-</div>
+  🦁 For me it's a pride to be a graduate of the Instituto Tecnológico de Puebla in Engineering in Information and Communications Technologies.
+  
+  📍 Puebla de Zaragoza, México.
 
 <!--
 **thecovarrubias/thecovarrubias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
