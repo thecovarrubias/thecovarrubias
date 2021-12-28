@@ -1,8 +1,8 @@
-## <Hello World! /> I'm José Covarrubias
+## <Hello World! /> 👋 I'm José Covarrubias
   
   👨🏻‍💻 Engineer focused on the development of solutions based on innovative web applications.
 
-### About Me
+### About me
   💻 Currently I'm in constant development of my professional and personal skills.
   
   🦁 For me it's a pride to be a graduate of the Instituto Tecnológico de Puebla in Engineering in Information and Communications Technologies.
@@ -18,6 +18,10 @@
 ![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat&logo=nuxt.js&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=blue)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" alt="It's fine" />
+</div>
 
 <!--
 **thecovarrubias/thecovarrubias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
