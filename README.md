@@ -1,27 +1,23 @@
-## <Hello World! /> 👋 I'm José Covarrubias
+# <Hello World! /> 👋 I'm José Covarrubias
   
   👨🏻‍💻 Engineer focused on the development of solutions based on innovative web applications.
 
-### About me
+## About me
   💻 Currently I'm in constant development of my professional and personal skills.
   
   🦁 For me it's a pride to be a graduate of the Instituto Tecnológico de Puebla in Engineering in Information and Communications Technologies.
   
   📍 Puebla de Zaragoza, México.
   
-### Technologies
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat&logo=nuxt.js&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=blue)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" alt="It's fine" />
-</div>
+## Technologies
+![](https://img.shields.io/badge/Python%20-3475A8.svg?&style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Flask%20-232323.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/JavaScript%20-FFE43F.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Node%20-B2E14D.svg?&style=for-the-badge&logo=node.js&logoColor=black)
+![](https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Vue%20-3fb27f.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/Nuxt%20-39495c.svg?&style=for-the-badge&logo=nuxt.js&logoColor=64b587)
+![](https://img.shields.io/badge/Dart%20-03589c.svg?&style=for-the-badge&logo=dart&logoColor=2cb7f6)
 
 <!--
 **thecovarrubias/thecovarrubias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
