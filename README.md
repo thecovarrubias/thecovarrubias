@@ -5,7 +5,7 @@
 ## About me
   💻 Currently I'm in constant development of my professional and personal skills.
   
-  🦁 For me it's a pride to be a graduate of the Instituto Tecnológico de Puebla in Engineering in Information and Communications Technologies.
+  🦁 For me it's a pride to be a graduate of the Instituto Tecnológico de Puebla in Information and Communications Technologies Engineering.
   
   📍 Puebla de Zaragoza, México.
   
