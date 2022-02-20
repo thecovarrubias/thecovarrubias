@@ -8,13 +8,16 @@
   🦁 For me it's a pride to be a graduate of the Instituto Tecnológico de Puebla in Information and Communications Technologies Engineering.
   
   📍 Puebla de Zaragoza, México.
-  
+ 
 ## Technologies
 ![](https://img.shields.io/badge/Python%20-3475A8.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript%20-FFE43F.svg?&style=for-the-badge&logo=javascript&logoColor=232323)
 ![](https://img.shields.io/badge/Node.JS%20-B2E14D.svg?&style=for-the-badge&logo=node.js&logoColor=232323)
 ![](https://img.shields.io/badge/Flask%20-fff.svg?&style=for-the-badge&logo=flask&logoColor=232323)
-![](https://img.shields.io/badge/Vue.JS%20-31475e.svg?&style=for-the-badge&logo=vue.js&logoColor=3fb27f)
+![](https://img.shields.io/badge/Vue.JS%20-3fb984.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/Nuxt.JS%20-31475e.svg?&style=for-the-badge&logo=nuxt.js&logoColor=3fb27f)
+![](https://img.shields.io/badge/React.JS%20-418fa7.svg?&style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/GIT%20-ea5e45.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 <!--
 **thecovarrubias/thecovarrubias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
