@@ -1,4 +1,4 @@
-# <Hello World! /> I'm José Covarrubias
+# <Hello World! /> I'm José G. Covarrubias
   
   👨🏻‍💻 Engineer focused on the development of solutions based on innovative web applications.
 
