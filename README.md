@@ -1,6 +1,6 @@
 # <Hello World! /> I'm José G. Covarrubias
   
-  👨🏻‍💻 Engineer focused on the development of solutions based on innovative web applications.
+  👨🏻‍💻 Engineer focused on the development of solutions based on frontend applications with the ability to work independently and collaboratively in a remote environment.
 
 ## About me
   💻 Currently I'm in constant development of my professional and personal skills.
